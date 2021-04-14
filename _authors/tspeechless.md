@@ -1,5 +1,5 @@
 ---
-pen_name: tspeechless
+short_name: tspeechless
 name: Wen Junying
 position: dominator
 ---
